@@ -1,3 +1,6 @@
+# i cloned the repo to make this comment
+# pretend this was a partner
+
 def print_menu():
     print("""Menu
 ------------
